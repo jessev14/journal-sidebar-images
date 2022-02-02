@@ -1,0 +1,22 @@
+{
+    "name": "journal-sidebar-images",
+    "title": "Journal Sidebar Images",
+    "description": "",
+    "author": "enso#0361",
+    "version": "1.0.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "esmodules": [
+        "./scripts/journal-sidebar-images.js"
+    ],
+    "styles": [
+        "./styles/journal-sidebar-images.css"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "./lang/en.json"
+        }
+    ]
+}
